@@ -23,6 +23,7 @@ The pipeline:
 
 
 
+
 ## ⚡ Key Features
 
 Serverless ETL using **AWS Lambda.**
@@ -34,6 +35,8 @@ S3 storage for **raw and summarized playlist data.**
 Computes simple but insightful **summary statistics.**
 
 Fully configurable via **environment variables.**
+
+
 
 
 
