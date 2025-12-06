@@ -38,6 +38,6 @@ Fully configurable via **environment variables.**
 
 
 
-## Output of the Pipeline - Data Visualization
+## 📊 Output of the Pipeline
 
 <img width="1347" height="1240" alt="top 50 tracks by popularity" src="https://github.com/user-attachments/assets/24a8fcaf-e5a6-4371-96a9-9860c666d915" />
