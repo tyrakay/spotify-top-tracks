@@ -1,6 +1,3 @@
-
-<img width="1347" height="1240" alt="top 50 tracks by popularity" src="https://github.com/user-attachments/assets/24a8fcaf-e5a6-4371-96a9-9860c666d915" />
-
 # 🎵 Spotify Top Tracks ETL Pipeline (AWS Lambda)
 
 **Project Type:** Data Engineering / ETL / Cloud  
@@ -35,3 +32,10 @@ S3 storage for **raw and summarized playlist data.**
 Computes simple but insightful **summary statistics.**
 
 Fully configurable via **environment variables.**
+
+
+
+
+
+
+<img width="1347" height="1240" alt="top 50 tracks by popularity" src="https://github.com/user-attachments/assets/24a8fcaf-e5a6-4371-96a9-9860c666d915" />
