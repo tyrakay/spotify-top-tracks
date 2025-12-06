@@ -13,7 +13,8 @@ It fetches tracks from a playlist, transforms the data to extract key fields, ca
 
 The pipeline:
 
-1. **Authenticates** with the Spotify API using **client credentials**.  
+1. **Authenticates** with the [Spotify Web API Documentation](https://developer.spotify.com/documentation/web-api/)
+ using **client credentials**.  
 2. **Fetches tracks** from a specified playlist.  
 3. **Transforms** the data to extract key fields: track name, artists, popularity, duration.  
 4. **Calculates summary statistics**: top artists, average popularity, total duration.  
